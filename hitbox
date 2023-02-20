@@ -31,7 +31,7 @@ Open2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Close.Name = "Close"
 Close.Parent = main
 Close.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Close.Position = UDim2.new(0, 100, -0.226244345, 198)
+Close.Position = UDim2.new(0, 277, -0.226244345, 26)
 Close.Size = UDim2.new(0, 78, 0, 30)
 Close.Font = Enum.Font.SourceSans
 Close.Text = "Close"
@@ -46,7 +46,7 @@ end)
 Open.Name = "Open"
 Open.Parent = Open2
 Open.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Open.Position = UDim2.new(0, 640, 0.451871663, -337)
+Open.Position = UDim2.new(0, 0, 0.451871663, -107)
 Open.Size = UDim2.new(0, 78, 0, 30)
 Open.Font = Enum.Font.SourceSans
 Open.Text = "Open"
@@ -61,7 +61,7 @@ end)
 main.Parent = FightingGui
 main.Active = true
 main.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-main.Position = UDim2.new(0.399011741, 0, 0.237333342, -160)
+main.Position = UDim2.new(0.000011741, 0, 0.237333342, 70)
 main.Size = UDim2.new(0, 273, 0, 114)
 main.Draggable = true
 
